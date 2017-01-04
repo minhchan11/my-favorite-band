@@ -2,13 +2,21 @@
   width: 25;
   float: right;
   background-color: grey;
+  border: 4px solid black;
+  margin: 10px;
+  padding: 15px;
+}
+
+ul{
+  text-align: left;
 }
 
 .main {
   font-size: 25px;
-  background-color: blue;
+  font-family: serif;
 }
 
 img {
-  float:right;
+  float:left;
+  padding: 15px;
 }
