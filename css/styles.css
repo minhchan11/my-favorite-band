@@ -1,0 +1,14 @@
+.sidebar {
+  width: 25;
+  float: right;
+  background-color: grey;
+}
+
+.main {
+  font-size: 25px;
+  background-color: blue;
+}
+
+img {
+  float:right;
+}
