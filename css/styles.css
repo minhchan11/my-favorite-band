@@ -29,3 +29,13 @@ img {
   float:left;
   padding: 15px;
 }
+
+.light-background {
+  color: #606060;
+  background-color: #bbcce8;
+}
+
+.dark-background {
+  color: #ede034;
+  background-color: #282823;
+}
